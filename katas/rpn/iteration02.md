@@ -17,9 +17,9 @@ Si, pour ajouter un operateur, vous n'avez qu'à rajouter du code, alors votre c
 
 à défaut, plus vous devrez rajouter des références au sigle "/" dans le code existant, plus votre code s'en éloignera.
 
-Vosu pouvez comparer vos différents commits d'itération 2 entre groupes et en discuter.
+Vous pouvez comparer vos différents commits d'itération 2 entre groupes et en discuter.
 
 
- <a href="/katas/sabords/iteration03.html">Itération 3</a> <br>
+ <a href="/katas/rpn/iteration03.html">Itération 3</a> <br>
  
 
