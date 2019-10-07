@@ -8,8 +8,8 @@
 
 <p align="center">
   <br> Katas: <br>
-  <a href="/katas/rpn/index.md">Reverse Polish Notation</a> <br>
-  <a href="/katas/sabords/index.md">1000 sabords</a> <br>
+  <a href="/katas/rpn/index.html">Reverse Polish Notation</a> <br>
+  <a href="/katas/sabords/index.html">1000 sabords</a> <br>
   <br><br>
 </p>
 
