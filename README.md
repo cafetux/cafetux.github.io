@@ -1,2 +1,2 @@
-# kata-1000-sabords
-un kata sur une sorte de yams
+# Site github me permettant de regrouper des ressources de kata
+
