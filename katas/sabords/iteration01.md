@@ -6,12 +6,12 @@ Mille sabords se joue avec 8 dés à 6 faces. Les dés sont identiques:
 
 
 <p align="center">
-  <img width="50" height="50" src="img/dice_parrot.jpg">
-  <img width="50" height="50" src="img/dice_monkey.jpg">
-  <img width="50" height="50" src="img/dice_saber.jpg">
-  <img width="50" height="50" src="img/dice_coin.jpg">
-  <img width="50" height="50" src="img/dice_skull.jpg">
-  <img width="50" height="50" src="img/dice_diamond.jpg">
+  <img width="60" height="60" src="img/dice_parrot.jpg">
+  <img width="60" height="60" src="img/dice_monkey.jpg">
+  <img width="60" height="60" src="img/dice_saber.jpg">
+  <img width="60" height="60" src="img/dice_coin.jpg">
+  <img width="60" height="60" src="img/dice_skull.jpg">
+  <img width="60" height="60" src="img/dice_diamond.jpg">
 </p>
 
 
