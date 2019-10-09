@@ -1,4 +1,4 @@
-# 1000 sabords
+# Mille sabords
 
 
 Mille sabords est un jeux de société d'Haim Shafir, illustré par Jose Pedro, édité et distribué par Gigamic.
