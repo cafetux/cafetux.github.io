@@ -20,7 +20,9 @@ Vous devez évaluer le score d'un lancé de dés.
 
 Chaque face "Pièce" ou "Diamant" donne 100 points.
 
-Exemple, un lancé: SKULL|DIAMOND|DIAMOND|PARROT|COIN|PARROT|MONKEY|MONKEY équivaut à 300 point (DIAMOND + DIAMOND + COIN)
+Exemple, un lancé: SKULL/DIAMOND/DIAMOND/PARROT/COIN/PARROT/MONKEY/MONKEY 
+
+équivaut à 300 point (DIAMOND + DIAMOND + COIN)
 
 
 
