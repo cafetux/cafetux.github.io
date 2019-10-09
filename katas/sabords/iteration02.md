@@ -13,10 +13,14 @@ Une autre façon de gagner des points et de cumuler les faces identiques à part
 
 Exemple: 
 
-Un tirage: SKULL|PARROT|PARROT|PARROT|SABER|SABER|SABER|SABER donne 300 points (200+100)
+Un tirage: SKULL/PARROT/PARROT/PARROT/SABER/SABER/SABER/SABER 
+
+donne 300 points (200+100)
 
 
-Un tirage: COIN|PARROT|COIN|COIN|DIAMOND|PARROT|PARROT|SABER donne 500 points: 100 (combo de 3 piéces) + 300 (100 pour chaque pièce) + 100 (1 diamand)
+Un tirage: COIN/PARROT/COIN/COIN/DIAMOND/PARROT/PARROT/SABER 
+
+donne 500 points: 100 (combo de 3 piéces) + 300 (100 pour chaque pièce) + 100 (1 diamand)
 
 
 
